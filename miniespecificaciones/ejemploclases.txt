@@ -1,0 +1,18 @@
+
+1.Inicio
+2.(direcciones_domicilio(2)(2), x(60)[{a-z}, {A-Z}, BS])
+
+
+6.<<"Ingresa la primera dirección"
+7.>>direcciones_domicilio[0][0]
+
+<<"Ingresa la segunda dirección"
+7.>>direcciones_domicilio[0][1]
+
+<<"Ingresa la tercera dirección"
+7.>>direcciones_domicilio[1][0]
+
+<<"Ingresa la cuarta dirección"
+7.>>direcciones_domicilio[1][1]
+
+8.Fin 
